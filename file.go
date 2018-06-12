@@ -415,7 +415,7 @@ func (l byModified) Less(i, j int) bool {
 var textExtensions = []string{
 	".ad", ".ada", ".adoc", ".asciidoc",
 	".bas", ".bash", ".bat",
-	".c", ".cc", ".cmd", ".conf", ".cpp", ".cr", ".cs", ".css", ".csv",
+	".c", ".cc", ".cmd", ".conf", ".cpp", ".cr", ".cs", ".css",
 	".d",
 	".f", ".f90",
 	".h", ".hh", ".hpp", ".htaccess", ".html",
